@@ -219,11 +219,10 @@ while True:
     client.send_message(entity=channel_entity, message='.gcast Yang serius bisa test call ')
     print(f'{hijau} Gcast berhasil.! {putih}gcast by : iruz')
     sleep(70)
-    client.send_message(entity=channel_entity, message='.gcast ?HI??VE? ??O?E? ??WME?K ??AA?? ?I?I?? ??UU?UW??? ')
+    client.send_message(entity=channel_entity, message='.gcast saawwaangeeee bgtttt ')
     print(f'{hijau} Gcast berhasil.! {putih}gcast by : iruz')
     sleep(70)
-    client.send_message(entity=channel_entity, message='.gcast MweMWEK nya kEsodok B¦Á¦ÁLLLOOKKK PANJANG Anjaayyy
-Check ¦Âhi¡è¡èH ')
+    client.send_message(entity=channel_entity, message='.gcast MweMWEK nya kEsodok ahh ')
     print(f'{hijau} Gcast berhasil.! {putih}gcast by : iruz')
     sleep(70)
     client.send_message(entity=channel_entity, message='.gcast basaaaah bgtttt ')
