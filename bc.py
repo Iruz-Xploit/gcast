@@ -64,8 +64,8 @@ if not client.is_user_authorized():
 saia = client.get_me()
 print('[*]Account:',saia.first_name)
 print('[*]Phone:',saia.phone,'\n')
-channel_username = '@gcastod'
-channel_entity = client.get_entity('@gcastod')
+channel_username = '@gcstbosss'
+channel_entity = client.get_entity('@gcstbosss')
 print('Memulai Bot Gcast..!')
 
 
